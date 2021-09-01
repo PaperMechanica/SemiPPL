@@ -1,4 +1,4 @@
-<div align='center' ><font size='5'>Polyphone Disambiguition in Mandarin Chinese with Semi-Supervised Learning</font></div>&nbsp;
+<div align='center' ><font size='5'>Polyphone Disambiguation in Mandarin Chinese with Semi-Supervised Learning</font></div>&nbsp;
 
 
 <div align='center' ><font size='2'>Interspeech 2021</font></div>
