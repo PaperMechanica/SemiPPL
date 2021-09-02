@@ -12,7 +12,7 @@ This is the official repo of the interspeech 2021 paper: Polyphone Disambiguatio
 Links
 --------
 
-[Paper](https://www.isca-speech.org/archive/interspeech_2021/shi21d_interspeech.html "paper link")&nbsp;|&nbsp;[Video](https://www.youtube.com/watch?v=NTKiiesM8xY "video link")&nbsp;|&nbsp;[Slides](https://drive.google.com/file/d/1lw-d7wbtpt5rzGLdZyI9vQjvtTbh7SQ7/view?usp=sharing)&nbsp;|&nbsp;[Data](https://drive.google.com/file/d/1lw-d7wbtpt5rzGLdZyI9vQjvtTbh7SQ7/view?usp=sharing)
+[Paper](https://www.isca-speech.org/archive/interspeech_2021/shi21d_interspeech.html "paper link")&nbsp;|&nbsp;[Video](https://www.youtube.com/watch?v=NTKiiesM8xY "video link")&nbsp;|&nbsp;[Slides](https://drive.google.com/file/d/1lw-d7wbtpt5rzGLdZyI9vQjvtTbh7SQ7/view?usp=sharing)&nbsp;|&nbsp;[Data](https://drive.google.com/drive/folders/1pIijtCDfdNzgS5lWHnN3TX_Nrbsa2rwi?usp=sharing)
 
 
 Reference
