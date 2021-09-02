@@ -18,7 +18,7 @@ Links
 Reference
 ---------
 
-If you find the code useful, please cite our paper:
+If you would like to cite our paper:
 
     @inproceedings{shi21semp,
       author={Shi,Yi and Wang,Congyi and Chen,Yu and Wang,Bin},
