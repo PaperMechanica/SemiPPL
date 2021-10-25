@@ -6,10 +6,9 @@
 
 <div align='center' >Yi&nbsp;Shi*&emsp;Congyi&nbsp;Wang**&emsp;Yu&nbsp;Chen&emsp;Bin&nbsp;Wang</div>&nbsp;
 
+\*First Author \**Corresponding Author
 
 This is the official repo of the interspeech 2021 paper: Polyphone Disambiguation in Mandarin Chinese with Semi-Supervised Learning. Here we provide data and other useful links.
-
-\*First Author \**Corresponding Author
 
 Links
 --------
