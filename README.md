@@ -9,6 +9,7 @@
 
 This is the official repo of the interspeech 2021 paper: Polyphone Disambiguation in Mandarin Chinese with Semi-Supervised Learning. Here we provide data and other useful links.
 
+*First Author **Corresponding Author
 Links
 --------
 
