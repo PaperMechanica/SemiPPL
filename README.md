@@ -17,7 +17,7 @@ Links
 
 Dataset: SyPoly
 --------
-The data is split into training set and test set. The training set is scraped from the internet. The corresponding labels are auto-labeled using traditional techniques and then fixed manually. The testset is created manually and cover some most difficult cases in real life conversations for robustness evaluation.  
+The data is split into training set and test set. The training set is scraped from the internet. The corresponding annotations are auto-labeled using traditional techniques and then fixed manually. The correstness of the training set is not guaranteed, so if you are able to find incorrect labels, please report in the issue section. The testset is created manually and cover some most difficult cases in real life conversations for robustness evaluation.  
 
 The format of training data file: <Char>_aug_<#local label>   
 The format of data: Pinyin/space/position/space/sentence/\n 
