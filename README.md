@@ -15,15 +15,16 @@ Links
 
 [Paper](https://www.isca-speech.org/archive/interspeech_2021/shi21d_interspeech.html "paper link")&nbsp;|&nbsp;[Video](https://www.youtube.com/watch?v=NTKiiesM8xY "video link")&nbsp;|&nbsp;[Slides](https://drive.google.com/file/d/1lw-d7wbtpt5rzGLdZyI9vQjvtTbh7SQ7/view?usp=sharing)&nbsp;|&nbsp;[DataTest](https://drive.google.com/drive/folders/1pIijtCDfdNzgS5lWHnN3TX_Nrbsa2rwi?usp=sharing)&nbsp;|&nbsp;[DataTrain](https://drive.google.com/drive/folders/1ncEnpttZNxmNMXsQSmytgrK1_2wKujkX?usp=sharing)
 
-Dataset: SyPoly
+Dataset: 
 --------
 The data is split into training set and test set. The training set is scraped from the internet. The corresponding annotations are auto-labeled using traditional techniques and then fixed manually. The correstness of the training set is not guaranteed, so if you are able to find incorrect labels, please report in the issue section. The testset is created manually and cover some most difficult cases in real life conversations for robustness evaluation.  
 
 The format of training data file: <Char>_aug_<#local label>   
 The format of data: Pinyin/space/position/space/sentence/\n 
 
-Reference
----------
+License:
+-------
+This is a research conducted by ([Xmov|魔珐科技]https://www.xmov.ai/about/). The usage of the dataset is restricted to eductaion and research purposes only. 
 
 If you would like to cite our paper:
 
